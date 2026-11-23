@@ -1,0 +1,6 @@
+# Chick Feast - robots.txt
+# Everything is crawlable. No paths are blocked.
+User-agent: *
+Allow: /
+
+Sitemap: https://chickfeast.online/sitemap.xml
